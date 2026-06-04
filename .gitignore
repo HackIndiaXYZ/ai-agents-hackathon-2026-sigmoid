@@ -163,7 +163,7 @@ coverage/
 # Playwright artifacts
 playwright-report/
 test-results/
-screenshots/
+raksha-app/screenshots/
 traces/
 
 # Editors
