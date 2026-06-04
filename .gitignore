@@ -141,3 +141,42 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Build
+build/
+dist/
+coverage/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+
+# Playwright artifacts
+playwright-report/
+test-results/
+screenshots/
+traces/
+
+# Editors
+.vscode/
+.idea/
+
+# Operating Systems
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache
